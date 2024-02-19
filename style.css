@@ -8,9 +8,12 @@ body {
   background-color: antiquewhite;
 }
 
+/* HEADER */
+
 #container {
   background-color: white;
   width: 720px;
+  height: 1024px;
   margin: 5rem auto;
   border-radius: 30px;
 }
@@ -36,15 +39,25 @@ header p {
   margin: 1rem;
 }
 
+/* HEADER SECTION */
+
 section {
-  margin: 3rem;
+  margin: 2rem 2.8rem 1rem 1rem;
   background-color: rgb(255, 239, 242);
   border-radius: 10px;
+  padding: 2rem;
 }
 
 #list-ul {
   margin: 1.2rem;
 }
 
-span{
-font-weight: bold;}
+span {
+  font-weight: bold;
+}
+
+h2 {
+  color: brown;
+}
+
+/* MAIN */
